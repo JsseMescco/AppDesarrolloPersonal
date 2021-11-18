@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProyectos/Gimnasio/app/src/main/res/layout/activity_abdomen.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidProyectos/Gimnasio/app/src/main/res/layout/activity_audios_wh.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidProyectos/Gimnasio/app/src/main/res/layout/activity_canal_youtube.xml" value="0.20520833333333333" />
+        <entry key="..\:/AndroidProyectos/Gimnasio/app/src/main/res/layout/activity_duchas_wh.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidProyectos/Gimnasio/app/src/main/res/layout/activity_ejercicios_mw.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidProyectos/Gimnasio/app/src/main/res/layout/activity_gimnasio.xml" value="0.25" />
+        <entry key="..\:/AndroidProyectos/Gimnasio/app/src/main/res/layout/activity_gluteos.xml" value="0.1" />
+        <entry key="..\:/AndroidProyectos/Gimnasio/app/src/main/res/layout/activity_kundalini.xml" value="0.33" />
+        <entry key="..\:/AndroidProyectos/Gimnasio/app/src/main/res/layout/activity_lectura.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidProyectos/Gimnasio/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/AndroidProyectos/Gimnasio/app/src/main/res/layout/activity_meditacion.xml" value="0.33" />
+        <entry key="..\:/AndroidProyectos/Gimnasio/app/src/main/res/layout/activity_metodo_wh.xml" value="0.33" />
+        <entry key="..\:/AndroidProyectos/Gimnasio/app/src/main/res/layout/activity_mindfullness.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidProyectos/Gimnasio/app/src/main/res/layout/activity_motivacion.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidProyectos/Gimnasio/app/src/main/res/layout/activity_nico_canal.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidProyectos/Gimnasio/app/src/main/res/layout/activity_pectorales.xml" value="0.20520833333333333" />
+        <entry key="..\:/AndroidProyectos/Gimnasio/app/src/main/res/layout/activity_piernas.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidProyectos/Gimnasio/app/src/main/res/layout/activity_respiracion_wh.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidProyectos/Gimnasio/app/src/main/res/layout/activity_resumen_libros.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidProyectos/Gimnasio/app/src/main/res/layout/activity_splash1.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidProyectos/Gimnasio/app/src/main/res/layout/activity_splash2.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidProyectos/Gimnasio/app/src/main/res/layout/activity_splash_lectura.xml" value="0.20520833333333333" />
+        <entry key="..\:/AndroidProyectos/Gimnasio/app/src/main/res/layout/activity_splash_meditacion.xml" value="0.20520833333333333" />
+        <entry key="..\:/AndroidProyectos/Gimnasio/app/src/main/res/layout/activity_splashmain.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidProyectos/Gimnasio/app/src/main/res/layout/activity_whinfo.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

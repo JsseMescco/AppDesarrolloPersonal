@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RespiracionWH"
+    tools:layout_editor_absoluteX="86dp"
+    tools:layout_editor_absoluteY="131dp">
+
+    <TextView
+        android:id="@+id/textView25"
+        android:layout_width="184dp"
+        android:layout_height="60dp"
+        android:gravity="center"
+        android:text="RESPIRACION GUIADA"
+        android:textColor="@color/subitulowh"
+        android:textStyle="bold"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.828"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.751" />
+
+    <TextView
+        android:id="@+id/textView29"
+        android:layout_width="186dp"
+        android:layout_height="108dp"
+        android:gravity="center"
+        android:text="UN CRONOMETRO QUE TE AYUDARA A CONTROLAR TUS TIEMPOS"
+        android:textAlignment="center"
+        android:textColor="@color/Titulowh"
+        android:textStyle="bold"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.84"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.942" />
+
+    <ImageButton
+        android:id="@+id/ibRespiracionguiada"
+        android:layout_width="159dp"
+        android:layout_height="182dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.055"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.934"
+        app:srcCompat="@drawable/respiracion1" />
+
+    <ImageButton
+        android:id="@+id/ibRetener"
+        android:layout_width="159dp"
+        android:layout_height="182dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.055"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.499"
+        app:srcCompat="@drawable/retener" />
+
+    <TextView
+        android:id="@+id/textView27"
+        android:layout_width="180dp"
+        android:layout_height="108dp"
+        android:gravity="center"
+        android:text="UN EJERCICIO DE RESPIRACION GUIADO POR EL PROPIO WIM Y UNAS CARACTERISTICAS SORPRENDENDES"
+        android:textAlignment="center"
+        android:textColor="@color/Titulowh"
+        android:textStyle="bold"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.831"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.558" />
+
+    <TextView
+        android:id="@+id/textView26"
+        android:layout_width="183dp"
+        android:layout_height="54dp"
+        android:gravity="center"
+        android:text="TEMPORIZADOR DE RETENCION"
+        android:textColor="@color/subitulowh"
+        android:textStyle="bold"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.828"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.406" />
+
+    <TextView
+        android:id="@+id/textView24"
+        android:layout_width="284dp"
+        android:layout_height="60dp"
+        android:gravity="center"
+        android:text="RESPIRACIÓN GUIADA"
+        android:textSize="26dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.023" />
+
+    <VideoView
+        android:id="@+id/respiracionvideo"
+        android:layout_width="280dp"
+        android:layout_height="167dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.48"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.163" />
+</androidx.constraintlayout.widget.ConstraintLayout>

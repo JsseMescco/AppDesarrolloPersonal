@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.gimnasio">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Gimnasio">
+        <activity
+            android:name=".NicoCanal"
+            android:exported="true" />
+        <activity
+            android:name=".CanalYoutube"
+            android:exported="true" />
+        <activity
+            android:name=".ResumenLibros"
+            android:exported="true" />
+        <activity
+            android:name=".SplashLectura"
+            android:exported="true" />
+        <activity
+            android:name=".Kundalini"
+            android:exported="true" />
+        <activity
+            android:name=".Mindfullness"
+            android:exported="true" />
+        <activity
+            android:name=".SplashMeditacion"
+            android:exported="true" />
+        <activity
+            android:name=".WHInfo"
+            android:exported="true" />
+        <activity
+            android:name=".AudiosWH"
+            android:exported="true" />
+        <activity
+            android:name=".RespiracionWH"
+            android:exported="true" />
+        <activity
+            android:name=".DuchasWH"
+            android:exported="true" />
+        <activity
+            android:name=".EjerciciosMW"
+            android:exported="true" />
+        <activity
+            android:name=".Piernas"
+            android:exported="true" />
+        <activity
+            android:name=".Gluteos"
+            android:exported="true" />
+        <activity
+            android:name=".Abdomen"
+            android:exported="true" />
+        <activity
+            android:name=".Pectorales"
+            android:exported="true" />
+        <activity
+            android:name=".Lectura"
+            android:exported="true" />
+        <activity
+            android:name=".Motivacion"
+            android:exported="true" />
+        <activity
+            android:name=".MetodoWH"
+            android:exported="true" />
+        <activity
+            android:name=".Organizacion"
+            android:exported="true" />
+        <activity
+            android:name=".Meditacion"
+            android:exported="true" />
+        <activity
+            android:name=".Gimnasio"
+            android:exported="true" />
+        <activity
+            android:name=".splashmain"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Splash2gym"
+            android:exported="true" />
+        <activity
+            android:name=".Splash1gym"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+    </application>
+
+</manifest>

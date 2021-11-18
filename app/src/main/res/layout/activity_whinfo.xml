@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#eee"
+    tools:context=".WHInfo">
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="356dp"
+        android:layout_height="243dp"
+        android:text="El método Wim Hof, el conocido hombre de hielo, permite a quienes lo practican controlar a su propia voluntad el sistema nervioso autónomo y la respuesta inmune de su organismo Wim Hof es un método natural para mejorar la salud y el bienestar de las personas, que combina técnicas específicas de respiración, la exposición al frío extremo, técnicas de meditación y ejercicios físicos"
+
+        android:gravity="center"
+        android:textColor="@color/subitulowh"
+        android:textSize="20dp"
+        android:background="#ddd"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.49"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.758" />
+
+    <VideoView
+        android:id="@+id/vidInfo"
+        android:layout_width="309dp"
+        android:layout_height="240dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.063" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="156dp"
+        android:layout_height="60dp"
+        android:text="¿QUE ES?"
+        android:gravity="center"
+        android:textColor="@color/Titulowh"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.427" />
+</androidx.constraintlayout.widget.ConstraintLayout>
